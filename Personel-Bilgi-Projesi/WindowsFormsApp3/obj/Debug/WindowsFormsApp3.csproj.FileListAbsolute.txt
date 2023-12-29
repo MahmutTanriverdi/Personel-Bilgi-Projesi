@@ -1,0 +1,13 @@
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Frmistatistik.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FrmAnaForm.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FrmGrafikler.resources
+C:\Users\mahmuttanriverdi\Desktop\udemyProjeler\Personel_Kayit\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FrmGiris.resources
